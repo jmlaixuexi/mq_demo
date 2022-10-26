@@ -1,0 +1,3 @@
+/rabbitmq/publisher/target/
+/rabbitmq/consumer/target/
+.idea
